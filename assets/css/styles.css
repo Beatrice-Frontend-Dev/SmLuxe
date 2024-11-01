@@ -638,13 +638,14 @@ ol {
 .description {
   margin-top: 0.5rem;
   font-size: 0.9rem;
+  font-weight: 500;
   color: #333;
 }
 
 .desc2 {
   font-size: 0.98rem;
   margin-top: 0.2rem;
-  font-weight: 800;
+  font-weight: 700;
   color: #89a6c4;
 }
 
