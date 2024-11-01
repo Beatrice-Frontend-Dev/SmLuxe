@@ -18,15 +18,18 @@ CSS3: Custom styling for layout, design, and animations.
 JavaScript: Enhancements such as dropdown menu behavior and interactive elements.
 GitHub Pages: Used for deployment, making the project accessible online.
 
-Future Enhancements
+Future Enhancements:
+
 E-commerce Integration: Adding shopping cart functionality for a complete online shopping experience.
 User Authentication: Implementing user login and registration for personalized interactions.
 Dynamic Content: Integrating a backend to support dynamic product listings and updates.
 
-License
+License:
+
 This project is open source and available under the MIT License.
 
-Contact
+Contact:
+
 For further information or questions, feel free to reach out via:
 GitHub: beatrice-frontend-dev
 Email:sheddyb28@gmail.com
